@@ -13,13 +13,13 @@
     "list": [
       {
         "pagePath": "pages/home/home",
-        "text": "text",
+        "text": "主页",
         "iconPath": "./images/icons/home_light.png",
         "selectedIconPath": "./images/icons/home_fill_light.png"
       },
       {
         "pagePath": "pages/user/user",
-        "text": "text",
+        "text": "个人",
         "iconPath": "./images/icons/my_light.png",
         "selectedIconPath": "./images/icons/my_fill_light.png"
       }
