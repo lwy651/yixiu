@@ -1,1 +1,17 @@
 /* pages/home/home.wxss */
+.header{
+  /* background-color: #ff937b; */
+  background-image: linear-gradient(90deg,#0af,#0085ff);
+  width: 100%;
+  padding: 50rpx;
+  color: #fff;
+  align-items: center;
+}
+.search{
+  display: flex;
+  border-radius: 30rpx;
+  width: 50rpx;
+  height: 30rpx;
+  background-color: #fff;
+  align-items: center;
+}

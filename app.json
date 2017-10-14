@@ -1,11 +1,12 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/user/user"
+    "pages/user/user",
+    "pages/order/order"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#ff937b",
+    "navigationBarBackgroundColor": "#0085ff",
     "navigationBarTitleText": "一休家电维修",
     "navigationBarTextStyle": "#ffffff"
   },
@@ -16,6 +17,12 @@
         "text": "主页",
         "iconPath": "./images/icons/home_light.png",
         "selectedIconPath": "./images/icons/home_fill_light.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "./images/icons/my_light.png",
+        "selectedIconPath": "./images/icons/my_fill_light.png"
       },
       {
         "pagePath": "pages/user/user",

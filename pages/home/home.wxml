@@ -1,2 +1,4 @@
 <!--pages/home/home.wxml-->
-<view></view>
+<view class='header'>
+  <view class='search'></view>
+</view>
